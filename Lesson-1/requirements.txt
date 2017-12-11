@@ -1,0 +1,5 @@
+jupyter
+requests
+pyquery
+beautifulsoup4
+pyspider
